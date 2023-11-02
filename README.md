@@ -35,3 +35,9 @@ The primary goal of this project is to provide a seamless and interactive experi
 To start the application, run:
 ```bash
 python app.py
+
+
+## Demo:
+
+[Click here to view the video](demo.mp4)
+
