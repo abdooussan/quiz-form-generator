@@ -1,0 +1,9 @@
+openai
+speech_recognition
+sounddevice
+soundfile 
+flet 
+tempfile
+oauth2client 
+apiclient
+httplib2 
