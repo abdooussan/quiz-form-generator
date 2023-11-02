@@ -36,7 +36,7 @@ To start the application, run:
 ```bash
 python app.py
 
-
+'''
 ## Demo:
 
 [Click here to view the video](demo.mp4)
